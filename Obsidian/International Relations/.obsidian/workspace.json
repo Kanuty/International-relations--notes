@@ -41,12 +41,88 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barry Buzan.md",
+                "file": "Structural Realism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barry Buzan"
+              "title": "Structural Realism"
+            }
+          },
+          {
+            "id": "2fddd19798a63b58",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          },
+          {
+            "id": "8c9f1ced8cb9b3ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          },
+          {
+            "id": "7a49b17675ce78d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intermediate Variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intermediate Variable"
+            }
+          },
+          {
+            "id": "873a144bd854dab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xunzi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xunzi"
+            }
+          },
+          {
+            "id": "f0ce2b2a3ed1d861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anarchical World System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anarchical World System"
+            }
+          },
+          {
+            "id": "9384ebebf995b8d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overwelming alliance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overwelming alliance"
             }
           },
           {
@@ -78,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barry Buzan.md",
+                "file": "Xunzi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Barry Buzan"
+              "title": "Linki zwrotne do Xunzi"
             }
           },
           {
@@ -239,34 +315,35 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "5cb312f4a4cffe09",
+  "active": "873a144bd854dab2",
   "lastOpenFiles": [
-    "Why Is There No Non-Western IR Theory.md",
-    "Barry Buzan.md",
-    "Amitav Acharya.md",
-    "A Multiverse of Knowladge Cultures and IR Theories.md",
-    "Global International Relations and Regional Worlds A New Agenda for International Studies.md",
-    "International Theory Positivism and Beyond.md",
-    "Marysia Zalewski.md",
-    "Steve Smith.md",
-    "Ken Booth.md",
-    "Moral Realism.md",
-    "Relational Theory.md",
-    "A Relational Theory of World Politics.md",
-    "Status Quo Power.md",
-    "NeoRealism.md",
-    "Realism.md",
-    "Offensive Realism.md",
-    "Defensive Realism.md",
-    "Structural Realism.md",
-    "Classical Realism.md",
-    "Balance of Power.md",
-    "Power.md",
-    "Marxism.md",
-    "People/Max Webber.md",
-    "People/Joseph Nye.md",
+    "Xunzi.md",
+    "Kautilya.md",
+    "Anarchical World System.md",
+    "Yaqing Qin.md",
+    "Ministers.md",
+    "Intermediate Variable.md",
     "People/Yan Xuetong.md",
-    "People/Stephen Walt.md",
+    "How Do Xunzi and Kautilya Ponder Interstate Politics.md",
+    "załączniki/How Do Xunzi and Kautilya Ponder Interstate Politics - Yan Xuetong.docx",
+    "Master Variable.md",
+    "Glory.md",
+    "Power Transition Theory.md",
+    "Structural Realism.md",
+    "A Multiverse of Knowladge Cultures and IR Theories.md",
+    "Westphalian System.md",
+    "Balance of Power.md",
+    "Balancing in Ancient China.md",
+    "Overwelming alliance.md",
+    "Alliance.md",
+    "Global International Relations and Regional Worlds A New Agenda for International Studies.md",
+    "Li Mingjiang.md",
+    "Li Mingjang.md",
+    "International Theory Positivism and Beyond.md",
+    "Barry Buzan.md",
+    "Why Is There No Non-Western IR Theory.md",
+    "Amitav Acharya.md",
+    "Marysia Zalewski.md",
     "załączniki/~$anxia and Its Decolonial Counterparts - Shuchen Xiang.docx",
     "załączniki/PL - Power znana jako sprawczość.docx",
     "załączniki/China Debates Soft Power - Li Mingjiang.docx",
@@ -275,7 +352,6 @@
     "załączniki/A Relational Theory of World Politics - Qin Yaqing.docx",
     "załączniki/John Mearsheimer World Changed Forever as Iran Defeated the US 1.docx",
     "załączniki/John Mearsheimer World Changed Forever as Iran Defeated the US.docx",
-    "załączniki/Jeffrey Sachs Global Economic Meltdown & destruction of Europe.docx",
-    "załączniki/Jeffrey Sachs Trumps Naval Blockade of the Strait of Hormuz.docx"
+    "załączniki/Jeffrey Sachs Global Economic Meltdown & destruction of Europe.docx"
   ]
 }

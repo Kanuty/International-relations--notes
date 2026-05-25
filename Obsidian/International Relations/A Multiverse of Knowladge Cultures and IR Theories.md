@@ -6,6 +6,9 @@ notes:
 [[Moral Realism]]
 [[Tianxia]]
 [[Relational Theory]]
+[[Overwelming alliance]] 
+[[Balance of Power]] - in context of criticism of balance-of power concept as 'to western to be universal'
+[[Westphalian System]] 
 
 addnotations:
 [[Why Is There No Non-Western IR Theory]]

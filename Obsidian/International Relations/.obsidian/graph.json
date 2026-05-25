@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "var",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -11,14 +11,14 @@
       "query": "tag:#People  ",
       "color": {
         "a": 1,
-        "rgb": 2603328
+        "rgb": 6200592
       }
     },
     {
       "query": "tag:#Article  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 4101010
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 13.125,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5694148928667603,
+  "scale": 0.5694148928667608,
   "close": false
 }

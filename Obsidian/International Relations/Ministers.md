@@ -1,0 +1,1 @@
+ as seen by [[Kautilya]] and [[Xunzi]] in [[How Do Xunzi and Kautilya Ponder Interstate Politics]]
