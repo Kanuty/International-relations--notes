@@ -1,0 +1,3 @@
+#Theory
+[[Realism]]
+[[Hans Morgenthau]]

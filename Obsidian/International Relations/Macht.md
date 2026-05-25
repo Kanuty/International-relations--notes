@@ -1,0 +1,1 @@
+‘Within a social relationship, power means any Chance (no matter whereon this chance is based) to carry through one’s own will (even against resistance). - [[Max Webber]] 

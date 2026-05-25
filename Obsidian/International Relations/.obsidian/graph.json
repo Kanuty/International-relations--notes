@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#People  ",
+      "color": {
+        "a": 1,
+        "rgb": 2603328
+      }
+    },
+    {
+      "query": "tag:#Article  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#YT  ",
+      "color": {
+        "a": 1,
+        "rgb": 13703706
+      }
+    },
+    {
+      "query": "tag:#Theory",
+      "color": {
+        "a": 1,
+        "rgb": 13767915
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 1.98854166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.520833333333333,
+  "repelStrength": 13.125,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.5694148928667603,
+  "close": false
+}

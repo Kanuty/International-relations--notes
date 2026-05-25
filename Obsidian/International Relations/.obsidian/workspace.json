@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "31aa5d39d6194a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1f6f93c625d8c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c7c8e72b4e192a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Qi Haixia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qi Haixia"
+            }
+          },
+          {
+            "id": "b2b5eb03f9ffe3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moral Realism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moral Realism"
+            }
+          },
+          {
+            "id": "5cb312f4a4cffe09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Barry Buzan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Barry Buzan"
+            }
+          },
+          {
+            "id": "85e7d632bd4d3a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ken Booth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ken Booth"
+            }
+          },
+          {
+            "id": "a6282624b5011cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relational Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relational Theory"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e49b0d7c26da197",
+    "type": "split",
+    "children": [
+      {
+        "id": "6693b5c53f5db0e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "433efd3e5b23a8b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "9e955c150d5a88cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Main_Authors",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Wyszukiwarka"
+            }
+          },
+          {
+            "id": "98f1218a592c770f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45eda85b3bb214a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3103a547648c75c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4debeb9d3f77a2fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Barry Buzan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne do Barry Buzan"
+            }
+          },
+          {
+            "id": "1c39a32eba073f93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Imperialism as a special stage of capitalism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące od Imperialism as a special stage of capitalism"
+            }
+          },
+          {
+            "id": "fe33b61344182f15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "0fc8e0405a6ba0e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
+          },
+          {
+            "id": "b43fe02abed8affc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Imperialism as a special stage of capitalism.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt Imperialism as a special stage of capitalism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Otwórz podgląd grafu": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false
+    }
+  },
+  "active": "5cb312f4a4cffe09",
+  "lastOpenFiles": [
+    "Why Is There No Non-Western IR Theory.md",
+    "Barry Buzan.md",
+    "Amitav Acharya.md",
+    "A Multiverse of Knowladge Cultures and IR Theories.md",
+    "Global International Relations and Regional Worlds A New Agenda for International Studies.md",
+    "International Theory Positivism and Beyond.md",
+    "Marysia Zalewski.md",
+    "Steve Smith.md",
+    "Ken Booth.md",
+    "Moral Realism.md",
+    "Relational Theory.md",
+    "A Relational Theory of World Politics.md",
+    "Status Quo Power.md",
+    "NeoRealism.md",
+    "Realism.md",
+    "Offensive Realism.md",
+    "Defensive Realism.md",
+    "Structural Realism.md",
+    "Classical Realism.md",
+    "Balance of Power.md",
+    "Power.md",
+    "Marxism.md",
+    "People/Max Webber.md",
+    "People/Joseph Nye.md",
+    "People/Yan Xuetong.md",
+    "People/Stephen Walt.md",
+    "załączniki/~$anxia and Its Decolonial Counterparts - Shuchen Xiang.docx",
+    "załączniki/PL - Power znana jako sprawczość.docx",
+    "załączniki/China Debates Soft Power - Li Mingjiang.docx",
+    "załączniki/Balancing in Ancient China - Qi Haixia.docx",
+    "załączniki/Tianxia and Its Decolonial Counterparts - Shuchen Xiang.docx",
+    "załączniki/A Relational Theory of World Politics - Qin Yaqing.docx",
+    "załączniki/John Mearsheimer World Changed Forever as Iran Defeated the US 1.docx",
+    "załączniki/John Mearsheimer World Changed Forever as Iran Defeated the US.docx",
+    "załączniki/Jeffrey Sachs Global Economic Meltdown & destruction of Europe.docx",
+    "załączniki/Jeffrey Sachs Trumps Naval Blockade of the Strait of Hormuz.docx"
+  ]
+}

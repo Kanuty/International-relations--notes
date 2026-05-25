@@ -1,0 +1,2 @@
+The Chinesee understanding of states qualities (potential)
+[[Li Mingjiang]] describes the evolution of this concept into  [[Soft Power]] in Chineesee IR theories in https://www.jstor.org/stable/48615681?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Aead062836f5b3aad303f1521f2278614&initiator=recommender&seq=1 
