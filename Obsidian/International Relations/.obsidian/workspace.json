@@ -87,14 +87,54 @@
             "id": "873a144bd854dab2",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          },
+          {
+            "id": "c9779e0c5864dc9a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          },
+          {
+            "id": "61610a34c2dbb891",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          },
+          {
+            "id": "4d275a32ce54c756",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Xunzi.md",
+                "file": "Neo-colonial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xunzi"
+              "title": "Neo-colonial"
+            }
+          },
+          {
+            "id": "c8ba4a4eb15b8cc0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
             }
           },
           {
@@ -154,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -227,7 +267,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xunzi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +276,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne do Xunzi"
+              "title": "Linki zwrotne"
             }
           },
           {
@@ -315,8 +354,27 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "873a144bd854dab2",
+  "active": "c8ba4a4eb15b8cc0",
   "lastOpenFiles": [
+    "Doctrines.md",
+    "Three Warfares.md",
+    "Grand Strategy.md",
+    "Chinese debt trap diplomacy in Africa the experience of Ghana.md",
+    "załączniki/~WRL1959.tmp",
+    "załączniki/~WRD1943.tmp",
+    "załączniki/~$inese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante 1.docx",
+    "załączniki/Chinese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante 1.docx",
+    "Neo-colonial.md",
+    "załączniki/~$inese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante.docx",
+    "załączniki/Chinese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante.docx",
+    "Tianxia and Its Decolonial Counterparts.md",
+    "Lawfare.md",
+    "załączniki/~$e PRCs rise reconfiguring the international order through lawfare.docx",
+    "China.md",
+    "załączniki/The PRCs rise reconfiguring the international order through lawfare.docx",
+    "Tools.md",
+    "Off-shore balancing.md",
+    "Selective contestation.md",
     "Xunzi.md",
     "Kautilya.md",
     "Anarchical World System.md",
@@ -332,26 +390,6 @@
     "Structural Realism.md",
     "A Multiverse of Knowladge Cultures and IR Theories.md",
     "Westphalian System.md",
-    "Balance of Power.md",
-    "Balancing in Ancient China.md",
-    "Overwelming alliance.md",
-    "Alliance.md",
-    "Global International Relations and Regional Worlds A New Agenda for International Studies.md",
-    "Li Mingjiang.md",
-    "Li Mingjang.md",
-    "International Theory Positivism and Beyond.md",
-    "Barry Buzan.md",
-    "Why Is There No Non-Western IR Theory.md",
-    "Amitav Acharya.md",
-    "Marysia Zalewski.md",
-    "załączniki/~$anxia and Its Decolonial Counterparts - Shuchen Xiang.docx",
-    "załączniki/PL - Power znana jako sprawczość.docx",
-    "załączniki/China Debates Soft Power - Li Mingjiang.docx",
-    "załączniki/Balancing in Ancient China - Qi Haixia.docx",
-    "załączniki/Tianxia and Its Decolonial Counterparts - Shuchen Xiang.docx",
-    "załączniki/A Relational Theory of World Politics - Qin Yaqing.docx",
-    "załączniki/John Mearsheimer World Changed Forever as Iran Defeated the US 1.docx",
-    "załączniki/John Mearsheimer World Changed Forever as Iran Defeated the US.docx",
-    "załączniki/Jeffrey Sachs Global Economic Meltdown & destruction of Europe.docx"
+    "załączniki/~$anxia and Its Decolonial Counterparts - Shuchen Xiang.docx"
   ]
 }

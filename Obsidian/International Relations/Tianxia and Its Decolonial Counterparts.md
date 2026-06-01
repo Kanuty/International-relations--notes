@@ -4,3 +4,4 @@ source: https://www.jstor.org/stable/48726996?refreqid=fastly-default%3A505baef8
 notes: ![[Tianxia and Its Decolonial Counterparts - Shuchen Xiang.docx]]
 
 [[Tianxia]]
+[[Neo-colonial]]
