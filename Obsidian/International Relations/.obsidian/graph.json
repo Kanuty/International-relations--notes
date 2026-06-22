@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "acti",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 13767915
       }
+    },
+    {
+      "query": "tag:#State",
+      "color": {
+        "a": 1,
+        "rgb": 15327495
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 13.125,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3242333202184641,
+  "scale": 1.0000000000000036,
   "close": false
 }

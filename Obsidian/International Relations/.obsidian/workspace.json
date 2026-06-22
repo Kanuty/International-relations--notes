@@ -22,41 +22,31 @@
             }
           },
           {
-            "id": "b2b5eb03f9ffe3e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moral Realism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Moral Realism"
-            }
-          },
-          {
-            "id": "5cb312f4a4cffe09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structural Realism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Structural Realism"
-            }
-          },
-          {
             "id": "2fddd19798a63b58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "type": "markdown",
+              "state": {
+                "file": "Active Defense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Active Defense"
+            }
+          },
+          {
+            "id": "5cb901d291a24828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "France.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "France"
             }
           },
           {
@@ -145,10 +135,14 @@
             "id": "63a17bef157b720f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "type": "markdown",
+              "state": {
+                "file": "Force de Frappe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Force de Frappe"
             }
           },
           {
@@ -208,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,6 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Active Defense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +285,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Linki zwrotne"
+              "title": "Linki zwrotne do Active Defense"
             }
           },
           {
@@ -368,8 +363,28 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "63a17bef157b720f",
+  "active": "2fddd19798a63b58",
   "lastOpenFiles": [
+    "Active Defense.md",
+    "France.md",
+    "Japan.md",
+    "China.md",
+    "Yoshida Doctrine.md",
+    "Mercantile Realism.md",
+    "Defensive Realism.md",
+    "Sunshine Policy.md",
+    "Liberalism.md",
+    "Realism.md",
+    "Begin Doctrine.md",
+    "Force de Frappe.md",
+    "People/Stephen Walt.md",
+    "The Balance of Terror.md",
+    "Gaulism.md",
+    "Strategic Autonomy.md",
+    "Deterrence.md",
+    "Doctrines.md",
+    "Splendit Isolation.md",
+    "Structural Realism.md",
     "Prestige.md",
     "The Struggle for Power.md",
     "Power.md",
@@ -377,7 +392,6 @@
     "załączniki/~$e Struggle for Power - Policy of Prestiege 1.docx",
     "załączniki/The Struggle for Power - Policy of Prestiege 2.docx",
     "załączniki/The Struggle for Power - Policy of Prestiege 1.docx",
-    "Doctrines.md",
     "Three Warfares.md",
     "Grand Strategy.md",
     "Chinese debt trap diplomacy in Africa the experience of Ghana.md",
@@ -385,26 +399,7 @@
     "załączniki/~WRD1943.tmp",
     "załączniki/~$inese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante 1.docx",
     "załączniki/Chinese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante 1.docx",
-    "Neo-colonial.md",
     "załączniki/~$inese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante.docx",
-    "załączniki/Chinese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante.docx",
-    "Tianxia and Its Decolonial Counterparts.md",
-    "Lawfare.md",
-    "China.md",
-    "Tools.md",
-    "Off-shore balancing.md",
-    "Selective contestation.md",
-    "Xunzi.md",
-    "Kautilya.md",
-    "Anarchical World System.md",
-    "Yaqing Qin.md",
-    "Ministers.md",
-    "Intermediate Variable.md",
-    "People/Yan Xuetong.md",
-    "How Do Xunzi and Kautilya Ponder Interstate Politics.md",
-    "Master Variable.md",
-    "Glory.md",
-    "Power Transition Theory.md",
-    "Structural Realism.md"
+    "załączniki/Chinese debt trap diplomacy in Africa the experience of Ghana - Kwame Asah Asante.docx"
   ]
 }

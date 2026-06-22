@@ -20,10 +20,10 @@ attention!! This place is a list of things that various people consider 'doctrin
 [[Free and Open Indo-Pacific]]
 [[Sunshine Policy]]
 [[Middle Power Diplomacy]] - Korea
-[[Gaulism]]
-[[Force de Frappe]]
+
+
 [[Europe Puissance]]
-[[Splenit Isolation]]
+[[Splendit Isolation]]
 [[Two-Power Standard]]
 [[Ostpolitik]]
 [[Wandel durch Handel]]
