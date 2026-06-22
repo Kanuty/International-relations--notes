@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "acti",
+  "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 13.125,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.0000000000000036,
+  "scale": 0.5694148928667616,
   "close": false
 }
